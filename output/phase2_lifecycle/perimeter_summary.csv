@@ -1,0 +1,9 @@
+status,payments,authorised_eur,captured_eur,payments_with_refund
+IN PERIMETER,378032,82593556.0,82065237.0,12903.0
+PayPal excluded by user (authorises/captures instantly; fees invoiced by PayPal),167584,34950079.0,34939382.0,3285.0
+Payment method without separate capture,64516,11692728.0,11640005.0,2291.0
+Account-month already captures with delay / at shipment,53239,16610833.0,16279295.0,2442.0
+Numeric-only order reference (user instruction),7042,1213839.0,1212733.0,69.0
+Authorised in last 3 days of export (refund tail incomplete),3364,754791.0,753833.0,29.0
+"Zero/low-value card validation, not an order",2574,31.0,0.0,
+Zero-amount authorisation (tokenisation / validation),1062,0.0,0.0,
