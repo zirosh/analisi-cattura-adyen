@@ -5,8 +5,8 @@ Cancelled,empty,9543,0
 CaptureFailed,same as Merchant Reference,27,27
 CaptureFailed,other,10,10
 CaptureFailed,numeric,3,3
-CaptureFailed,<auto> (Adyen auto-capture),2,2
 CaptureFailed,FO-* (OMS reference),2,2
+CaptureFailed,<auto> (Adyen auto-capture),2,2
 Chargeback,same as Merchant Reference,477,477
 Chargeback,FO-* (OMS reference),141,141
 Chargeback,<auto> (Adyen auto-capture),103,103
@@ -31,8 +31,8 @@ RefundedReversed,same as Merchant Reference,4,4
 Refused,empty,104991,0
 Retried,empty,21950,0
 SecondChargeback,same as Merchant Reference,22,22
-SecondChargeback,<auto> (Adyen auto-capture),2,2
 SecondChargeback,FO-* (OMS reference),2,2
+SecondChargeback,<auto> (Adyen auto-capture),2,2
 SentForRefund,same as Merchant Reference,21104,21104
 SentForRefund,numeric,7001,7001
 SentForRefund,other,30,30

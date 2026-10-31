@@ -1,0 +1,3 @@
+in_perimeter,payments_with_chargeback,with_chargeback_and_refund,chargeback_fees_eur_approx
+False,47,1,179.65
+True,211,10,1191.11

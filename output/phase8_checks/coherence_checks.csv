@@ -1,0 +1,13 @@
+check,result,pass
+Perimeter: in + out = total European authorisations,"378,032 + 299,381 = 677,413 vs 677,413",True
+Perimeter: GMV in + out = total GMV (EUR),difference 7.3e-05,True
+No refunded-within-S amount greater than captured,0 violations (refunds capped at captured),True
+Raw refunds within S exceeding captured (before cap),0 payments,True
+In perimeter: total valid refunds > captured (any time),1 payments (multi-auth references / partial data),True
+No duplicate payment key (Merchant Reference + auth sequence),0 duplicates,True
+No duplicate refund Modification Psp Reference,0 duplicates,True
+No capture settled twice (Settled per Modification Psp Reference),0 duplicates,True
+Each record attached to at most one payment,0 duplicates,True
+Orphan modifications (payment authorised before export start),"11,224 of 1,400,462 records",True
+FX coverage (ECB monthly rate found for every payment),0 missing,True
+Fees on SentForSettle duplicate Settled (only Settled used),"SFS 9,254,672 vs Settled 9,249,011 (local ccy sum)",True

@@ -26,7 +26,9 @@ REPORT_TZ = "Europe/Amsterdam"                      # time zone used for months 
 EUROPEAN_CURRENCIES = ["EUR", "GBP", "CHF", "PLN", "CZK", "HUF", "SEK", "DKK", "NOK", "RON"]
 
 # Capture-delay thresholds (hours)
-THRESHOLDS_H = [12, 24, 48, 72]
+THRESHOLDS_H = [12, 24, 48, 72]                     # main thresholds requested
+EXTRA_THRESHOLDS_H = [1, 2, 4, 6]                   # supplementary short-delay sensitivity
+ALL_THRESHOLDS_H = sorted(EXTRA_THRESHOLDS_H + THRESHOLDS_H)
 # Capture classification of an account (median Authorised -> first SentForSettle)
 IMMEDIATE_MAX_H = 1.0
 # ============================================================================
