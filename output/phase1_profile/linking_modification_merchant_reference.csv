@@ -1,0 +1,57 @@
+Record Type,modification_merchant_reference,records,with_mod_psp
+AuthenticationRequested,empty,413318,0
+Authorised,empty,783942,0
+Cancelled,empty,9543,0
+CaptureFailed,same as Merchant Reference,27,27
+CaptureFailed,other,10,10
+CaptureFailed,numeric,3,3
+CaptureFailed,<auto> (Adyen auto-capture),2,2
+CaptureFailed,FO-* (OMS reference),2,2
+Chargeback,same as Merchant Reference,477,477
+Chargeback,FO-* (OMS reference),141,141
+Chargeback,<auto> (Adyen auto-capture),103,103
+Chargeback,empty,4,4
+ChargebackReversed,same as Merchant Reference,53,53
+ChargebackReversed,<auto> (Adyen auto-capture),12,12
+ChargebackReversed,FO-* (OMS reference),8,8
+Error,empty,2924,0
+Expired,empty,477,0
+HandledExternally,empty,2729,0
+Received,empty,894566,0
+RefundFailed,same as Merchant Reference,66,66
+RefundFailed,numeric,23,23
+RefundNotCleared,same as Merchant Reference,1,1
+Refunded,same as Merchant Reference,18796,18796
+Refunded,numeric,5443,5443
+Refunded,other,29,29
+RefundedExternally,same as Merchant Reference,2546,2546
+RefundedExternally,numeric,1483,1483
+RefundedExternally,other,1,1
+RefundedReversed,same as Merchant Reference,4,4
+Refused,empty,104991,0
+Retried,empty,21950,0
+SecondChargeback,same as Merchant Reference,22,22
+SecondChargeback,<auto> (Adyen auto-capture),2,2
+SecondChargeback,FO-* (OMS reference),2,2
+SentForRefund,same as Merchant Reference,21104,21104
+SentForRefund,numeric,7001,7001
+SentForRefund,other,30,30
+SentForSettle,same as Merchant Reference,473456,473456
+SentForSettle,<auto> (Adyen auto-capture),208480,208480
+SentForSettle,FO-* (OMS reference),90090,90090
+SentForSettle,empty,874,874
+SentForSettle,other,466,466
+SentForSettle,numeric,118,118
+Settled,same as Merchant Reference,287622,287622
+Settled,<auto> (Adyen auto-capture),206416,206416
+Settled,FO-* (OMS reference),89500,89500
+Settled,empty,865,865
+Settled,other,403,403
+Settled,numeric,82,82
+SettledExternally,same as Merchant Reference,189162,189162
+SettledExternally,other,60,60
+SettledExternally,numeric,33,33
+SettledExternally,FO-* (OMS reference),17,17
+SettledExternally,<auto> (Adyen auto-capture),13,13
+SettledExternally,empty,9,9
+SettledReversed,same as Merchant Reference,7,7

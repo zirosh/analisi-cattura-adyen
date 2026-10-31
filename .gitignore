@@ -1,0 +1,8 @@
+# Transactional data - never commit
+data/*.csv
+data/*.parquet
+data/*.zip
+data/**/*.csv
+data/**/*.parquet
+data/extracted/
+*.parquet
