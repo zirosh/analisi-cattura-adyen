@@ -1,0 +1,17 @@
+threshold_h,regime,payments,pct_cancelled_within_s,pct_refunded_within_s,pct_cancel_or_refund_within_s
+12,Ariete immediate auto-capture,29194,0.007,0.069,0.07600000000000001
+24,Ariete immediate auto-capture,29194,0.007,0.243,0.25
+48,Ariete immediate auto-capture,29194,0.007,0.435,0.442
+72,Ariete immediate auto-capture,29194,0.007,0.562,0.5690000000000001
+12,Hybris (batch capture ~1h),186073,0.618,0.005,0.623
+24,Hybris (batch capture ~1h),186073,0.623,0.01,0.633
+48,Hybris (batch capture ~1h),186073,0.626,0.018,0.644
+72,Hybris (batch capture ~1h),186073,0.628,0.026,0.654
+12,SFCC delayed capture (median ~24-47h),52576,1.194,0.004,1.198
+24,SFCC delayed capture (median ~24-47h),52576,1.215,0.004,1.219
+48,SFCC delayed capture (median ~24-47h),52576,1.231,0.008,1.239
+72,SFCC delayed capture (median ~24-47h),52576,1.252,0.01,1.262
+12,SFCC immediate auto-capture,162871,0.93,0.664,1.594
+24,SFCC immediate auto-capture,162871,0.93,0.691,1.621
+48,SFCC immediate auto-capture,162871,0.93,0.707,1.637
+72,SFCC immediate auto-capture,162871,0.93,0.774,1.7040000000000002

@@ -1,0 +1,30 @@
+Description,Count,TurnoverCurrency,TurnoverAmount,Rate,Currency,Amount
+Transaction fee 1 - 25000,25000,USD,7000292.87,"EUR 0,0981",EUR,2452.50
+Transaction fee 25001 - 125000,39002,USD,10921016.91,"EUR 0,0926",EUR,3611.58
+Commission Markup EUR 0.00 - EUR 1600000.00,7162,EUR,1600000.00,"0,29%",EUR,4640.00
+Commission Markup EUR 1600000.00 - EUR 4000000.00,10743,EUR,2400000.00,"0,26%",EUR,6240.00
+Commission Markup EUR 4000000.00 - EUR 8000000.00,10867,EUR,2427588.34,"0,23%",EUR,5583.45
+Commission Markup (cartebancaire),1918,EUR,409151.10,"0,60%",EUR,2454.91
+Commission Blend (klarna_AT),380,EUR,112614.64,"EUR 0,1000 + 1,99%",EUR,2279.03
+Commission Blend (klarna_CH),212,CHF,54980.19,"CHF 0,1000 + 1,99%",CHF,1115.31
+Commission Blend (klarna_DE),1437,EUR,373846.73,"EUR 0,1000 + 1,99%",EUR,7583.25
+Commission Blend (klarna_FR),29,EUR,4360.16,"EUR 0,1000 + 2,90%",EUR,129.34
+Commission Blend (klarna_GB),105,GBP,16352.80,"GBP 0,1000 + 2,00%",GBP,337.56
+Commission Blend (klarna_IT),40,EUR,4379.73,"EUR 0,1000 + 2,90%",EUR,131.01
+Commission Blend (klarna_NL),251,EUR,40807.61,"EUR 0,1000 + 1,99%",EUR,837.17
+Commission Blend (klarna_SE),495,SEK,1011359.66,"SEK 1,0000 + 2,35%",SEK,24261.95
+Commission Blend (amex),357,USD,114570.97,"3,95%",USD,4525.55
+Commission Blend Refunds (bcmc),30,EUR,6110.24,"EUR 0,2200",EUR,6.60
+Commission Blend Refunds (ideal),131,EUR,17732.66,"EUR 0,2200",EUR,28.82
+Commission Blend Refunds (klarna),298,USD,86488.03,"EUR 0,2200",EUR,65.56
+Commission Blend Refunds (klarna_account),197,USD,65243.58,"EUR 0,2200",EUR,43.34
+Commission Blend Refunds (klarna_paynow),13,USD,2671.60,"EUR 0,2200",EUR,2.86
+Commission Blend Refunds (mbway),27,EUR,3088.55,"EUR 0,2200",EUR,5.94
+Commission Blend Refunds (swish),11,SEK,14908.33,"SEK 2,5000",SEK,27.50
+Authorisation Scheme fee Cancelled,231,USD,230181.88,**,USD,95.19
+Commission Blend Chargebacks,6,USD,2708.51,"USD 10,9000",USD,65.40
+Commission Blend Reversed Chargebacks,1,GBP,227.91,"EUR 0,1090",EUR,0.10
+Commission Markup Chargebacks,31,USD,23114.39,"USD 10,9000",USD,337.90
+Commission Markup Reversed Chargebacks,2,USD,1464.14,"EUR 0,1090",EUR,0.21
+Scheme fee Visa & Mastercard Chargebacks,31,USD,23114.39,*,USD,51.03
+Scheme fee Visa & Mastercard Reversed Chargebacks,2,USD,1464.14,*,EUR,-29.10

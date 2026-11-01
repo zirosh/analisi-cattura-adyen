@@ -1,0 +1,30 @@
+column_name,column_type
+row_id,BIGINT
+Merchant Reference,VARCHAR
+Payment Method,VARCHAR
+Booking Date,TIMESTAMP
+TimeZone,VARCHAR
+Main Currency,VARCHAR
+Main Amount,"DECIMAL(18,2)"
+Record Type,VARCHAR
+Payment Currency,VARCHAR
+Received (PC),"DECIMAL(18,2)"
+Authorised (PC),"DECIMAL(18,2)"
+Captured (PC),"DECIMAL(18,2)"
+Settlement Currency,VARCHAR
+Payable (SC),"DECIMAL(18,2)"
+Commission (SC),"DECIMAL(18,2)"
+Markup (SC),"DECIMAL(18,2)"
+Scheme Fees (SC),"DECIMAL(18,2)"
+Interchange (SC),"DECIMAL(18,2)"
+Processing Fee Currency,VARCHAR
+Processing Fee (FC),"DECIMAL(18,2)"
+Payment Method Variant,VARCHAR
+Issuer Country,VARCHAR
+Shopper Country,VARCHAR
+Modification Merchant Reference,VARCHAR
+Payable Batch,VARCHAR
+Unique Terminal ID,VARCHAR
+Store,VARCHAR
+Modification Psp Reference,VARCHAR
+Issuer Name,VARCHAR

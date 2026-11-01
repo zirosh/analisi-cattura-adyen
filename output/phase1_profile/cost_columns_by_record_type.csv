@@ -1,0 +1,24 @@
+Record Type,records,Commission (SC) n,Commission (SC) nonzero,Commission (SC) negative,Markup (SC) n,Markup (SC) nonzero,Markup (SC) negative,Scheme Fees (SC) n,Scheme Fees (SC) nonzero,Scheme Fees (SC) negative,Interchange (SC) n,Interchange (SC) nonzero,Interchange (SC) negative,Processing Fee (FC) n,Processing Fee (FC) nonzero,Processing Fee (FC) negative,settlement_ccys,proc_fee_ccys
+Received,768877,0,0,0,0,0,0,0,0,0,0,0,0,588279,588279,0,,EUR
+Authorised,677413,0,0,0,0,0,0,3355,3355,0,0,0,0,0,0,0,"EUR,PLN,CZK,NOK,CHF,GBP,SEK,RON,DKK,HUF,JPY",
+SentForSettle,671511,35008,35008,0,321385,321367,0,321385,319942,0,321385,321352,0,0,0,0,"EUR,HUF,CHF,RON,CZK,NOK,GBP,SEK,PLN,DKK",
+Settled,502074,179941,179941,0,322133,322115,0,322133,320696,0,322133,322103,0,358099,0,0,"RON,GBP,NOK,DKK,CHF,CZK,EUR,HUF,SEK,PLN",
+AuthenticationRequested,372643,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+SettledExternally,170450,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+Refused,87343,0,0,0,0,0,0,40784,40784,0,0,0,0,0,0,0,"HUF,PLN,SEK,EUR,GBP,CZK,DKK,JPY,CHF,RON,NOK",
+SentForRefund,25078,13906,1172,0,0,0,0,0,0,0,0,0,0,21960,21960,0,"EUR,CZK,DKK,PLN,CHF,NOK,GBP,RON,HUF,SEK",EUR
+Refunded,21810,21781,8212,698,0,0,0,0,0,0,0,0,0,14196,0,0,"CHF,GBP,DKK,CZK,SEK,RON,EUR,HUF,PLN,NOK",EUR
+Retried,17998,0,0,0,0,0,0,14667,14667,0,0,0,0,0,0,0,"EUR,DKK,SEK,HUF,GBP,RON,PLN,CHF,JPY,CZK,NOK",
+Cancelled,5232,0,0,0,0,0,0,1518,1518,0,0,0,0,0,0,0,"HUF,EUR,GBP,DKK,CZK,RON,SEK,PLN,CHF,NOK",
+RefundedExternally,3446,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+HandledExternally,2729,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+Error,1412,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,
+Expired,367,0,0,0,0,0,0,176,176,0,0,0,0,0,0,0,"EUR,DKK,PLN,CHF,HUF,NOK,CZK,GBP,RON",
+Chargeback,304,171,18,10,119,119,0,119,61,0,0,0,0,0,0,0,"CHF,PLN,SEK,NOK,GBP,HUF,DKK,EUR,RON",
+RefundFailed,72,3,2,2,0,0,0,0,0,0,0,0,0,3,3,3,"CHF,SEK",EUR
+ChargebackReversed,51,4,4,0,42,42,0,42,25,25,0,0,0,0,0,0,"HUF,DKK,GBP,EUR,PLN,RON,NOK,SEK",
+CaptureFailed,31,2,2,2,3,3,3,3,3,3,3,0,0,0,0,0,"GBP,CHF",
+SecondChargeback,24,0,0,0,0,0,0,13,12,0,0,0,0,0,0,0,"PLN,GBP,HUF,SEK,EUR,DKK",
+SettledReversed,7,7,7,7,0,0,0,0,0,0,0,0,0,0,0,0,CZK,
+RefundedReversed,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"PLN,GBP",
+RefundNotCleared,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PLN,

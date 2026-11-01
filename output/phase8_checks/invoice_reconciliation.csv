@@ -1,0 +1,11 @@
+mode,Description,InvoiceAmount,invoice_eur,mapping_to_accounting_report,report_eur_comparison_month,delta_eur
+Invoice period 2026-09 not in export: order-of-magnitude comparison with 2025-09,Processing Fees,6876.36,6055.799075859357,Processing Fee (FC) on Received + SentForRefund (+RefundFailed reversals),5494.499999998383,-561.299075860974
+Invoice period 2026-09 not in export: order-of-magnitude comparison with 2025-09,Payment Method Fees,189939.18,167273.6027074621,Settled Commission/Markup/Scheme/Interchange + scheme fees on Authorised/Refused/Retried/Cancelled/Expired - commission returned on refunds (Amex),162119.84052570045,-5153.7621817616455
+Invoice period 2026-09 not in export: order-of-magnitude comparison with 2025-09,Mobile Payment Fees,86.17,75.88727268013902,Settled Commission on MobilePay/Vipps (included in Payment Method Fees in the report),,
+Invoice period 2026-09 not in export: order-of-magnitude comparison with 2025-09,Management Service,3085.76,2717.53406690804,NOT in accounting report (0.10% on externally settled volume),,
+Invoice period 2026-09 not in export: order-of-magnitude comparison with 2025-09,Management & Reconciliation Service,768.29,676.6094084649415,NOT in accounting report,,
+Invoice period 2026-09 not in export: order-of-magnitude comparison with 2025-09,Refund Fees,178.71,157.38440873468315,Positive Commission on SentForRefund/Refunded (refund fees),110.08134874944659,-47.30305998523656
+Invoice period 2026-09 not in export: order-of-magnitude comparison with 2025-09,Chargeback Service,421.68,371.36062601556256,Fees on Chargeback/SecondChargeback/ChargebackReversed,402.9060582765868,31.545432261024246
+Invoice period 2026-09 not in export: order-of-magnitude comparison with 2025-09,Revenue Protect Service,753.5,663.584309672563,NOT in accounting report (risk fee per transaction),,
+Invoice period 2026-09 not in export: order-of-magnitude comparison with 2025-09,Authentication Engine,1412.5,1243.9453714830727,NOT in accounting report (3DS fee per authentication),,
+Invoice period 2026-09 not in export: order-of-magnitude comparison with 2025-09,Non-Transactional Scheme Fees,1118.13,984.7027527195527,NOT in accounting report,,

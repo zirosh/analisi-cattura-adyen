@@ -1,0 +1,24 @@
+Record Type,records,records_eu_ch_uk
+Received,894566,768877
+Authorised,783942,677413
+SentForSettle,773484,671511
+Settled,584888,502074
+AuthenticationRequested,413318,372643
+SettledExternally,189294,170450
+Refused,104991,87343
+SentForRefund,28135,25078
+Refunded,24268,21810
+Retried,21950,17998
+Cancelled,9543,5232
+RefundedExternally,4030,3446
+Error,2924,1412
+HandledExternally,2729,2729
+Chargeback,725,304
+Expired,477,367
+RefundFailed,89,72
+ChargebackReversed,73,51
+CaptureFailed,44,31
+SecondChargeback,26,24
+SettledReversed,7,7
+RefundedReversed,4,4
+RefundNotCleared,1,1

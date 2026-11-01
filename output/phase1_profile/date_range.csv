@@ -1,0 +1,3 @@
+TimeZone,min_booking_raw,max_booking_raw,min_local,max_local,records,before_start_local,before_start_raw_eastern
+EST,2024-12-31 18:00:47,2025-12-31 17:59:59,2025-01-01 00:00:47,2025-12-31 23:59:59,1837076,0,455
+EDT,2025-03-09 03:01:03,2025-11-02 01:54:27,2025-03-09 08:01:03,2025-11-02 06:54:27,2002432,0,0

@@ -1,0 +1,12 @@
+metric,observed
+"Processing fee per Received (auth) record, EUR",0.09
+"Processing fee per SentForRefund, EUR",0.09
+"Card markup % of settled amount (visa/mc, EUR)",0.2834
+"Card interchange % (visa/mc, EUR)",0.4374
+"Card scheme fee % (visa/mc, EUR)",0.1355
+"Klarna commission % of settled (klarna, EUR)",3.1809
+Amex commission % of settled (EUR),2.2858
+"Refund fee per Klarna refund (Refunded commission, EUR)",0.22
+"Scheme fee per Cancelled (mc, EUR)",0.7024
+"Scheme fee per Cancelled (visa, EUR)",0.0032
+Interchange returned on card refunds (count of negative IC records),0.0
