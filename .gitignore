@@ -1,9 +1,12 @@
 # Transactional data - never commit
-data/*.csv
-data/*.parquet
-data/*.zip
-data/**/*.csv
-data/**/*.parquet
-data/extracted/
+**/data/*.csv
+**/data/*.parquet
+**/data/*.zip
+**/data/**/*.csv
+**/data/**/*.parquet
+**/data/extracted/
 *.parquet
-__pycache__/
+**/*.parquet
+**/__pycache__/
+.DS_Store
+Thumbs.db
